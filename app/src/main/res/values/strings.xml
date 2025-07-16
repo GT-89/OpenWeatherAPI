@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">OpenWeatherAPI</string>
+
+    //Permissions
+    <string name="permission_request_title_generic">Permission Required</string>
+    <string name="permission_rationale_location">This permission is required in order to be able find physicians in your local area</string>
+
+    //General
+    <string name="okay">Okay</string>
+
+    //Views
+    <string name="temperature">%1$d°C</string>
+    <string name="temperature_feels_like">Feels Like %1$d°C</string>
+    <string name="temperature_high_low">High %1$d°C · Low %2$d°C</string>
+    <string name="weather_details_wind">Wind: %1$dMph</string>
+    <string name="weather_details_humidity">Humidity: %1$d%%</string>
+    <string name="weather_details_visibility">Visibility: %1$dKm</string>
+    <string name="weather_details_pressure">Pressure: %1$dhPa</string>
+    <string name="weather_details_sunrise">Sunrise: %1s</string>
+    <string name="weather_details_sunset">Sunset: %1s</string>
+    <string name="three_hourly_forecast_header">3-Hourly Forecast</string>
+    <string name="daily_forecast_header">Daily Forecast</string>
+
+</resources>
